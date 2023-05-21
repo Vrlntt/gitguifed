@@ -15,4 +15,4 @@ int main(int argc, char **argv)
     printf("Hello %s %s!\n", first, last);
     return 0;
 }
-+
+УРА, У ТЕБЯ НАКОНЕЦ-ТО ПОЛУЧИЛОСЬ СДЕЛАТЬ ЭТУ ЛАБУ
